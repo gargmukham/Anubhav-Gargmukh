@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Anubhav Gargmukh  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=2EB2FF&center=true&vCenter=true&width=600&lines=AI/ML+Engineer+in+the+Making;Cybersecurity+Learner;Open-Source+Contributor;Passionate+Developer;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=2EB2FF&center=true&vCenter=true&width=700&lines=AI/ML+Engineer+in+the+Making;Cybersecurity+Learner;Open-Source+Contributor;Passionate+Developer;Always+Learning+New+Things" />
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@ I’m on a journey to become an **AI/ML Engineer at top MNCs (Google, Amazon, et
 - 🎓 3rd Year **B.Tech in Artificial Intelligence & Machine Learning**  
 - ⚡ Exploring **Data Science, DSA, and Cybersecurity**  
 - 💡 Building projects: *Deepfake Detector, House Price Predictor, Rock-Paper-Scissors CV Game*  
- 
+- 📖 Preparing for **CDS Exam** alongside my tech journey  
 - 🎯 Goal: **Internship + Placement in Top MNCs**
 
 ---
@@ -46,6 +46,20 @@ I’m on a journey to become an **AI/ML Engineer at top MNCs (Google, Amazon, et
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gargmukham&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gargmukham&theme=onedark&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/gargmukham/gargmukham/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
